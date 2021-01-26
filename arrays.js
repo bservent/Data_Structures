@@ -24,3 +24,22 @@
 //size can't be changed once initialized
 //insert/delete are not efficient
 //can waste storage space
+
+//ARRAYLIST = array DS as scaffolding but pro is that it is dynamic
+//comes from pre-built arraylist class and therefore has functionality includes
+//methods: add(@ 1st index), add(specific index), remove(1st object), remove(specific index), get(reference index of array), set(replace elements within arraylist), clear(delete all objects), toArray(convert objects into array)
+
+//O NOTATION 
+//access = 0(1) get method
+//search = 0(n)
+//insert = 0(n)
+//delete = 0(n)
+
+//Array vs Arraylist
+//array = fixed size but arraylist is dynamic
+//arrays can store all data types where arraylist can only store objects
+//with arrays methods need to be created but in arraylist methods come with it
+//arrays don't take up that much memory where arraylist takes up more because it is a class with built in funcitonality
+//arrays good for small tasks
+//Arraylist good for interactive tasks where data is always changing
+
