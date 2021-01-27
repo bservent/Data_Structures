@@ -24,6 +24,6 @@
 //two pointer(previous & next)
 //time complexity and bit O is same as LL
 
-//CIRCULAR LINKED-LICK = tail points to head so you can loop through data if necessary but you still only go one direction
+//CIRCULAR LINKED-LIST = tail points to head so you can loop through data if necessary but you still only go one direction
 
 
